@@ -18,7 +18,11 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
+<<<<<<< HEAD
   background: url("../img/4377025.jpg"), #49A3D6;
+=======
+  background: url("../img/bg.jpg"), #49A3D6;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
@@ -27,14 +31,22 @@ header {
     text-align: right; }
     header .menu a {
       margin: 0 20px;
+<<<<<<< HEAD
       color: rgb(11, 255, 174);
+=======
+      color: #fff;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
       padding-bottom: 9px;
       font-size: 1em;
       display: inline-block;
       text-decoration: none;
       border-bottom: 2px solid transparent; }
       header .menu a:hover {
+<<<<<<< HEAD
         border-bottom: 2px solid rgb(228, 94, 94); }
+=======
+        border-bottom: 2px solid #fff; }
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
   header .contenedor-texto {
     display: flex;
     justify-content: center;
@@ -47,7 +59,11 @@ header {
       text-align: center;
       padding: 20px 60px; }
       header .contenedor-texto .texto h1, header .contenedor-texto .texto h2 {
+<<<<<<< HEAD
         color: rgb(11, 255, 174);
+=======
+        color: #fff;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
         font-weight: 300;
         margin: 0; }
       header .contenedor-texto .texto .nombre {
@@ -84,17 +100,32 @@ header {
       color: #dd820d;
       text-align: center; }
     .main .acerca-de .texto .bold {
+<<<<<<< HEAD
       color: #297fcf;
       text-decoration: underline; }
 .main .trabajos {
   background: #e1fafa;
+=======
+      color: #3895ea;
+      text-decoration: underline; }
+.main .trabajos {
+  background: #f2f2f2;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
   padding: 60px 0; }
   .main .trabajos .contenedor {
     overflow: hidden; }
   .main .trabajos .titulo {
+<<<<<<< HEAD
     font-size: 40px;
     line-height: 140px;
     color: #4845e2;
+=======
+    font-size: 34px;
+    line-height: 34px;
+    margin-bottom: 60px;
+    font-weight: 300;
+    color: #323068;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
     text-align: center; }
   .main .trabajos .contenedor-trabajos {
     display: flex;
@@ -115,11 +146,19 @@ header {
         text-align: center; }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .nombre {
           font-weight: 700;
+<<<<<<< HEAD
           color: #f58b12;
           margin-bottom: 10px; }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria {
           font-size: 14px;
           color: #181616; }
+=======
+          color: #3895ea;
+          margin-bottom: 10px; }
+        .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria {
+          font-size: 14px;
+          color: #636363; }
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
 
 /* ----- ----- FOOTER ----- ----- */
 footer .contacto {
@@ -129,7 +168,11 @@ footer .contacto {
     line-height: 34px;
     margin-bottom: 60px;
     font-weight: 300;
+<<<<<<< HEAD
     color: #f3be12;
+=======
+    color: #3895ea;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
     text-align: center; }
   footer .contacto .formulario {
     display: flex;
@@ -138,11 +181,19 @@ footer .contacto {
     footer .contacto .formulario input[type="text"],
     footer .contacto .formulario input[type="email"],
     footer .contacto .formulario textarea {
+<<<<<<< HEAD
       border: 2px solid #181a18;
       border-radius: 5px;
       padding: 15px 20px;
       font-size: 20px;
       color: #7b47da; }
+=======
+      border: 2px solid #cecece;
+      border-radius: 5px;
+      padding: 15px 20px;
+      font-size: 20px;
+      color: #a4a4a4; }
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
     footer .contacto .formulario input[type="text"],
     footer .contacto .formulario input[type="email"] {
       width: 49%;
@@ -156,7 +207,11 @@ footer .contacto {
       max-height: 300px; }
     footer .contacto .formulario .boton {
       margin: auto;
+<<<<<<< HEAD
       background: #77cc3f;
+=======
+      background: #3895ea;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
       color: #fff;
       border: none;
       border-radius: 3px;
@@ -164,7 +219,11 @@ footer .contacto {
       footer .contacto .formulario .boton:hover {
         background: #387bea; }
 footer .redes-sociales {
+<<<<<<< HEAD
   background: #375f66;
+=======
+  background: #1e2b38;
+>>>>>>> e20c4d1fc539812b73986c2f193014854febddf5
   padding: 60px 0; }
   footer .redes-sociales .contenedor {
     display: flex;
