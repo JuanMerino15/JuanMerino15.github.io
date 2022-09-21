@@ -27,7 +27,7 @@ const magicBall = () => {
         eightBall = 'Echale ganas compadre';
         break;
     case 2:
-        eightBall = 'Nose no estes chingando';
+        eightBall = 'Nose n';
         break;
     case 3:
         eightBall = 'zi';
@@ -39,7 +39,7 @@ const magicBall = () => {
         eightBall = 'A lo mejor';
         break;
     case 6:
-        eightBall = 'Me viste cara de adivino o que verga';
+        eightBall = 'Me viste cara de adivino o que ';
         break;
     case 7:
         eightBall = 'zi se pero no ter wua decir';
